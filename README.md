@@ -15,7 +15,6 @@ To use this theme, open up your netbeans:
 
 - click upper menu
   - tools->options
-
 - Look at the bottom of dialog window for button: import
 - Browse for the darktheme.zip file
 - select: All
