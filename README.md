@@ -13,13 +13,13 @@ using font: Source Code Pro 12 from [github](https://github.com/adobe/Source-Cod
 
 To use this theme, open up your netbeans:
 
-click upper menu
-  tools->options
+- click upper menu
+  - tools->options
 
-Look at the bottom of dialog window for button: import
-
-select: All
-
-that's all it takes.
+- Look at the bottom of dialog window for button: import
+- Browse for the darktheme.zip file
+- select: All
+- Then select okay
+- that's all it takes.
 
 ![Dark Theme](https://raw.github.com/robertkraig/NetbeansDarkTheme/master/darktheme.png)
