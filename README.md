@@ -11,4 +11,15 @@ Netbeans doesn't provide really any good themes so I made my own.
 
 using font: Source Code Pro 12 from [github](https://github.com/adobe/Source-Code-Pro)
 
+To use this theme, open up your netbeans:
+
+click upper menu
+  tools->options
+
+Look at the bottom of dialog window for button: import
+
+select: All
+
+that's all it takes.
+
 ![Dark Theme](https://raw.github.com/robertkraig/NetbeansDarkTheme/master/darktheme.png)
